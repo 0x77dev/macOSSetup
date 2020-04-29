@@ -1,7 +1,8 @@
 # macOS First Setup Script
 ## What will be installed?
- * kubectl
- * docker
+ * `kubectl`
+  * `eksctl`
+ * `docker`
  * VSCode
  * Node.js
  * Yarn

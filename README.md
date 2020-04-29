@@ -12,5 +12,5 @@
 1. Open terminal
 2. Enter this command: 
 ```bash
-curl https://git.io/JfYkI | bash
+curl -L https://git.io/JfYkI | bash
 ```
